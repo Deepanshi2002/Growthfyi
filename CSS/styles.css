@@ -1,0 +1,137 @@
+/************************************ tag selectors ****************************/
+
+body{
+  margin: 0;
+  background-color: #572dce;
+  font-family: sans-serif;
+}
+
+h1{
+  color: #bba3ff;
+  font-size: 3em;
+  line-height: 1.2;
+}
+
+h5{
+  color: #bba3ff;
+  margin-top: 5px;
+  margin-bottom: 60px;
+}
+
+hr{
+  height: 0;
+  width: 20%;
+  border-color: #c3c9ff;
+  border-style: dashed;
+}
+
+button:hover{
+  background-color: #e7b432;
+}
+
+select{
+  color:#c3c9ff;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+/*************************************** class selectors ********************************/
+
+.login-img{
+  width: 100%;
+}
+
+.login-div{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.feedback-img{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feed-heading{
+  text-align: center;
+  margin-top: 7%;
+  margin-bottom: 0;
+  font-size: 4em;
+}
+
+.form{
+  border-radius: 5px;
+  background-color: #724fd6;
+  color:#c3c9ff ;
+  width: 100%;
+  margin: 10px auto 50px auto;
+  padding: 30px;
+}
+
+.get-started-btn{
+  border: none;
+  border-radius: 5px;
+  background-color: #ffd15b;
+  height: 50px;
+  width: 35%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: x-large;
+  font-weight: 700;
+  color: #572dce;
+}
+
+.login-btn{
+  border: none;
+  border-radius: 5px;
+  background-color: #8162da;
+  height: 50px;
+  width: 35%;
+  font-size: x-large;
+  font-weight: 700;
+  color: white;
+}
+
+.login-btn:hover{
+  background-color: #9aa4ff;
+}
+
+.sign-up-btn{
+  width: 100%;
+}
+
+.submit-btn{
+  width: 100%;
+}
+
+.first-container{
+  text-align: left;
+  width: 30%;
+  margin: 70px auto;
+}
+
+.feedback-div{
+  color: #c3c9ff;
+  width: 40%;
+  margin: 2% auto 7%;
+}
+
+.feedback-box{
+  width: 100%;
+  background-color: #bba3ff;
+  border-radius: 5px;
+  color: white;
+}
+
+.box{
+  border-width: 0;
+  border-radius: 5px;
+  height: 50px;
+  width: 100%;
+  background-color: #957be0;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: white;
+}
